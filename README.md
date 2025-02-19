@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizur Rahman</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmanfaizur" alt="rahmanfaizur" /></a> </p>
-
 - 🔭 I’m currently working on [rememberify](https://rememberify-main.vercel.app/)
 
 - 🌱 I’m currently learning **MERN, Nextjs, TailwindCss, Devops, WEB 3 (SOLANA AND ETHEREUM)**
